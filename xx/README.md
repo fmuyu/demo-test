@@ -36,9 +36,9 @@ _______________________________________________________________________________
 
 
 
-# shop_v0.0.1
+# 
 
-> shop
+> 
 
 ## Build Setup
 
@@ -67,7 +67,7 @@ npm test
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-# 做这个项目的时候，当时也是对vue一脸懵逼，后来找到参考借鉴，特此吧地址粘粘出来，个人真心不喜欢代码发到网上
+# 
 
  #git clone https://github.com/bailicangdu/vue2-elm.git
  # 好好看看基本上会知道90%
