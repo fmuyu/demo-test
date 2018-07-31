@@ -1,0 +1,776 @@
+{
+  "ret": 0,
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "scheduleList": {
+      "20170424": {
+        "time": 1492963200,
+        "date": "4-24",
+        "week": "周一",
+        "list": [
+          {
+            "scheduleid": "27400",
+            "oneseedid": "9",
+            "oneseedname": "C9",
+            "twoseedid": "280",
+            "twoseedname": "TSM",
+            "starttime": "03:00",
+            "onewin": "2",
+            "twowin": "3",
+            "eid": "350",
+            "stageid": "1273",
+            "hasvideo": true,
+            "bonum": 5,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": true,
+            "oneicon": "https://static.wanplus.com/data/lol/team/9_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/280_mid.png",
+            "live": false,
+            "relation": "20170424",
+            "date": "04月24日 周一",
+            "poster": "https://static.wanplus.com/data/event/banner/350_mid.jpg",
+            "ename": "2017 LCS 北美春季赛",
+            "groupname": "季后赛",
+            "oneScore": [
+              0,
+              0,
+              1,
+              1,
+              0
+            ],
+            "twoScore": [
+              1,
+              1,
+              0,
+              0,
+              1
+            ]
+          }
+        ],
+        "lDate": "04-24 星期一",
+        "filterdate": "2017-04-24",
+        "selected": false
+      },
+      "20170425": {
+        "time": 1493049600,
+        "date": "4-25",
+        "week": "周二",
+        "list": [
+          {
+            "scheduleid": "28173",
+            "oneseedid": "190",
+            "oneseedname": "JAG",
+            "twoseedid": "4593",
+            "twoseedname": "EEW",
+            "starttime": "12:00",
+            "onewin": "2",
+            "twowin": "0",
+            "eid": "437",
+            "stageid": "1305",
+            "hasvideo": false,
+            "bonum": 3,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": true,
+            "oneicon": "https://static.wanplus.com/data/lol/team/190_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4593_mid.png",
+            "live": false,
+            "relation": "20170425",
+            "date": "04月25日 周二",
+            "poster": "https://static.wanplus.com/data/event/banner/437_mid.jpg",
+            "ename": "2017 LCK 升降级赛",
+            "groupname": "",
+            "oneScore": [
+              1,
+              1,
+              -1
+            ],
+            "twoScore": [
+              0,
+              0,
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28174",
+            "oneseedid": "71",
+            "oneseedname": "KDM",
+            "twoseedid": "184",
+            "twoseedname": "CJE",
+            "starttime": "15:00",
+            "onewin": "2",
+            "twowin": "1",
+            "eid": "437",
+            "stageid": "1305",
+            "hasvideo": false,
+            "bonum": 3,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": true,
+            "oneicon": "https://static.wanplus.com/data/lol/team/71_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/184_mid.png",
+            "live": false,
+            "relation": "20170425",
+            "date": "04月25日 周二",
+            "poster": "https://static.wanplus.com/data/event/banner/437_mid.jpg",
+            "ename": "2017 LCK 升降级赛",
+            "groupname": "",
+            "oneScore": [
+              0,
+              1,
+              1
+            ],
+            "twoScore": [
+              1,
+              0,
+              0
+            ]
+          },
+          {
+            "scheduleid": "28177",
+            "oneseedid": "4593",
+            "oneseedname": "EEW",
+            "twoseedid": "184",
+            "twoseedname": "CJE",
+            "starttime": "18:00",
+            "onewin": "2",
+            "twowin": "0",
+            "eid": "437",
+            "stageid": "1305",
+            "hasvideo": false,
+            "bonum": 3,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": true,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4593_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/184_mid.png",
+            "live": false,
+            "relation": "20170425",
+            "date": "04月25日 周二",
+            "poster": "https://static.wanplus.com/data/event/banner/437_mid.jpg",
+            "ename": "2017 LCK 升降级赛",
+            "groupname": "",
+            "oneScore": [
+              1,
+              1,
+              -1
+            ],
+            "twoScore": [
+              0,
+              0,
+              -1
+            ]
+          }
+        ],
+        "lDate": "04-25 星期二",
+        "filterdate": "2017-04-25",
+        "selected": false
+      },
+      "20170426": {
+        "time": 1493136000,
+        "date": "4-26",
+        "week": "今天",
+        "list": false,
+        "lDate": "04-26 今天",
+        "filterdate": "2017-04-26",
+        "selected": true
+      },
+      "20170427": {
+        "time": 1493222400,
+        "date": "4-27",
+        "week": "周四",
+        "list": [
+          {
+            "scheduleid": "28175",
+            "oneseedid": "190",
+            "oneseedname": "JAG",
+            "twoseedid": "71",
+            "twoseedname": "KDM",
+            "starttime": "17:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "437",
+            "stageid": "1305",
+            "hasvideo": false,
+            "bonum": 5,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/190_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/71_mid.png",
+            "live": false,
+            "relation": "20170427",
+            "date": "04月27日 周四",
+            "poster": "https://static.wanplus.com/data/event/banner/437_mid.jpg",
+            "ename": "2017 LCK 升降级赛",
+            "groupname": "",
+            "oneScore": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "twoScore": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ]
+          }
+        ],
+        "lDate": "04-27 星期四",
+        "filterdate": "2017-04-27",
+        "selected": false
+      },
+      "20170428": {
+        "time": 1493308800,
+        "date": "4-28",
+        "week": "周五",
+        "list": false,
+        "lDate": "04-28 星期五",
+        "filterdate": "2017-04-28",
+        "selected": false
+      },
+      "20170429": {
+        "time": 1493395200,
+        "date": "4-29",
+        "week": "周六",
+        "list": [
+          {
+            "scheduleid": "28239",
+            "oneseedid": "4396",
+            "oneseedname": "RED",
+            "twoseedid": "4540",
+            "twoseedname": "DW",
+            "starttime": "02:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4396_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4540_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28240",
+            "oneseedid": "2587",
+            "oneseedname": "SUP",
+            "twoseedid": "4368",
+            "twoseedname": "RPG",
+            "starttime": "03:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/2587_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4368_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28241",
+            "oneseedid": "4396",
+            "oneseedname": "RED",
+            "twoseedid": "4368",
+            "twoseedname": "RPG",
+            "starttime": "04:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4396_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4368_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28242",
+            "oneseedid": "2587",
+            "oneseedname": "SUP",
+            "twoseedid": "4540",
+            "twoseedname": "DW",
+            "starttime": "05:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/2587_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4540_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28267",
+            "oneseedid": "4540",
+            "oneseedname": "DW",
+            "twoseedid": "4368",
+            "twoseedname": "RPG",
+            "starttime": "06:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4540_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4368_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28268",
+            "oneseedid": "2587",
+            "oneseedname": "SUP",
+            "twoseedid": "4396",
+            "twoseedname": "RED",
+            "starttime": "07:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/2587_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4396_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28326",
+            "oneseedid": "271",
+            "oneseedname": "WE",
+            "twoseedid": "208",
+            "twoseedname": "RNG",
+            "starttime": "16:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "348",
+            "stageid": "1314",
+            "hasvideo": false,
+            "bonum": 5,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/271_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/208_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388184",
+                "name": "战旗TV"
+              },
+              {
+                "id": "303088",
+                "name": "全民TV"
+              }
+            ],
+            "relation": "20170429",
+            "date": "04月29日 周六",
+            "poster": "https://static.wanplus.com/data/event/banner/348_mid.jpg",
+            "ename": "2017 LPL 春季赛",
+            "groupname": "决赛阶段",
+            "oneScore": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ],
+            "twoScore": [
+              -1,
+              -1,
+              -1,
+              -1,
+              -1
+            ]
+          }
+        ],
+        "lDate": "04-29 星期六",
+        "filterdate": "2017-04-29",
+        "selected": false
+      },
+      "20170430": {
+        "time": 1493481600,
+        "date": "4-30",
+        "week": "周日",
+        "list": [
+          {
+            "scheduleid": "28243",
+            "oneseedid": "4430",
+            "oneseedname": "VP",
+            "twoseedid": "4522",
+            "twoseedname": "LYN",
+            "starttime": "02:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4430_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4522_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28244",
+            "oneseedid": "4600",
+            "oneseedname": "GAM",
+            "twoseedid": "4532",
+            "twoseedname": "ISG",
+            "starttime": "03:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4600_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4532_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28245",
+            "oneseedid": "4430",
+            "oneseedname": "VP",
+            "twoseedid": "4532",
+            "twoseedname": "ISG",
+            "starttime": "04:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4430_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4532_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28246",
+            "oneseedid": "4600",
+            "oneseedname": "GAM",
+            "twoseedid": "4522",
+            "twoseedname": "LYN",
+            "starttime": "05:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4600_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4522_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28270",
+            "oneseedid": "4522",
+            "oneseedname": "LYN",
+            "twoseedid": "4532",
+            "twoseedname": "ISG",
+            "starttime": "06:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4522_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4532_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          },
+          {
+            "scheduleid": "28271",
+            "oneseedid": "4600",
+            "oneseedname": "GAM",
+            "twoseedid": "4430",
+            "twoseedname": "VP",
+            "starttime": "07:00",
+            "onewin": "0",
+            "twowin": "0",
+            "eid": "439",
+            "stageid": "1306",
+            "hasvideo": false,
+            "bonum": 1,
+            "gametype": "2",
+            "liveids": "",
+            "gamename": "lol",
+            "isover": false,
+            "oneicon": "https://static.wanplus.com/data/lol/team/4600_mid.png",
+            "twoicon": "https://static.wanplus.com/data/lol/team/4430_mid.png",
+            "live": false,
+            "liveList": [
+              {
+                "id": "388388",
+                "name": "虎牙直播"
+              }
+            ],
+            "relation": "20170430",
+            "date": "04月30日 周日",
+            "poster": "https://static.wanplus.com/data/event/banner/439_mid.jpg",
+            "ename": "2017 MSI 入围赛",
+            "groupname": "Round 1",
+            "oneScore": [
+              -1
+            ],
+            "twoScore": [
+              -1
+            ]
+          }
+        ],
+        "lDate": "04-30 星期日",
+        "filterdate": "2017-04-30",
+        "selected": false
+      }
+    },
+    "isShowList": 1,
+    "prevtime": 1492876800,
+    "prevdate": "上周 04.17-04.23",
+    "nexttime": 1493568000,
+    "nextdate": "下周 05.01-05.08"
+  }
+}
